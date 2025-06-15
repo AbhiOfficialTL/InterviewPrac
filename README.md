@@ -14,5 +14,5 @@ Day 1 (Git Command)
 4. ls -a (For All File as well Hiden File show )
 5. git add ______ --> file name that you want to add 
 6. git add . --> Add All file 
-7. 
+7. git commit -m "______" --> add message that you are commit
 
