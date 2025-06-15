@@ -15,4 +15,5 @@ Day 1 (Git Command)
 5. git add ______ --> file name that you want to add 
 6. git add . --> Add All file 
 7. git commit -m "______" --> add message that you are commit
+8. git push origin main --> origin is repo name , and main is repo branch
 
