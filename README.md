@@ -17,3 +17,14 @@ Day 1 (Git Command)
 7. git commit -m "______" --> add message that you are commit
 8. git push origin main --> origin is repo name , and main is repo branch
 
+9. git checkout ______ --> other branch 
+10. git checkout -b ______ --> create a branch
+
+    For Reset 
+12. git reset ______ --> for perticular file
+13. git reset   --> All reset
+14. git reset HEAD~1 --> last commit to back
+15. git reset ______ --> Hash code of that you want to set
+16. git log --> check the log history of you commited 
+
+
